@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# binaries
+src/main
+src/tutorial??/tutorial??
+src/water-tutorial??/water-tutorial??
